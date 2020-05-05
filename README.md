@@ -1,0 +1,2 @@
+# PREDICTION-OF-IMDB-MOVIE-SCORES-Using-DATA-MINING-ALGORITHMS-
+So here in this project, I have tried analysing the IMDB scores of different movies. The IMDb 5000 Dataset that I used contains lot of factors upon which IMDB scores depends such as genres, number of users who voted, Facebook likes for the actors, number of people who appeared in posters, etc. The problem statement is finding which Factor's affects the movies success rate the most
